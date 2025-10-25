@@ -1,2 +1,2 @@
 # test
-errored code
+Email function isnt working 
